@@ -7,7 +7,7 @@
 ;===========================================
 */
 
-'use-strict'
+"use-strict";
 // Import Team Class exported from team.js.
 const Team = require('./team.js');
 

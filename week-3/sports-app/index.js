@@ -6,7 +6,8 @@
 ; Description: Main program for Team Module.
 ;===========================================
 */
-'use strict'
+
+"use-strict";
 
 //Imports the TeamManager module from the team-manager.js file.
 const TeamManager = require('./team-manager.js');

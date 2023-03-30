@@ -7,7 +7,7 @@
 ;===========================================
 */
 
-'use-strict'
+"use-strict";
 
 class Team {
     constructor (name, mascot, playerCount) {
